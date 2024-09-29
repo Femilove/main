@@ -1,0 +1,31 @@
+
+      body {
+        background: url("drluxury1.jpg") no-repeat center center;
+        background-size: cover;
+        height: 100vh;
+      }
+      .head1 {
+        text-align: center;
+        color: black;
+        font-size: larger;
+      }
+      .footer-buttons {
+        padding: 2rem;
+        text-align: center;
+        position: relative;
+        top: 33rem;
+      }
+      .footer-buttons a {
+        background-color: brown;
+        padding: 0.7rem;
+        margin: 1rem;
+        border-radius: 10%;
+        text-decoration: none;
+      }
+      .footer-buttons a:hover {
+        background-color: #0056b3;
+      }
+      .middle {
+        font-size: 2rem;
+        color: black;
+      }
